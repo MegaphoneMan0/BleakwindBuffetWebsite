@@ -12,6 +12,10 @@ namespace BleakwindBuffetWebsite.Pages
         public void OnGet()
         {
 
+
+
+
+
         }
     }
 }
